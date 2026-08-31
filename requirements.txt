@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+sentence-transformers
+mteb
+entmax
+fastdist
+numba
+scipy
+requests
+numpy
+tqdm
+print-on-steroids
+setproctitle
